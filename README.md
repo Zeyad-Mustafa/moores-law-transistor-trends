@@ -3,7 +3,7 @@ This project visualizes historical transistor scaling and estimates the halving 
 
 
 
-![Alt text](image/newplot.png)
+![Alt text](newplot.png)
 
 
 

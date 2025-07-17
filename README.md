@@ -1,6 +1,6 @@
 Moore’s Law states that the number of transistors on a chip roughly doubles every two years, which implies a halving of transistor size over time.
 This project visualizes historical transistor scaling and estimates the halving period using logarithmic regression.
-![Alt text](images/transistor-size.png)
+![Alt text](image/newplot.png)
  Graph Explanation: Transistor Size Over Time
 When you visualize Moore’s Law, you usually have a graph with:
 
